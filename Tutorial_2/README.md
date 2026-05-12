@@ -3,7 +3,7 @@
 **Course:** Computação Móvel  
 **Student(s):** Bernardo Rocha – 15033  
 **Date:** 2024/2025  
-**Repository URL:** https://github.com/username/computacao-movel
+**Repository URL:** https://github.com/Bernardo5018/Tutoriais_Comp_Movel
 
 ---
 
