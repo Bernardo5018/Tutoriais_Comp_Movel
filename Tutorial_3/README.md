@@ -6,7 +6,6 @@
 **Repository URL:** https://github.com/username/computacao-movel
 
 ---
-
 ## 1. Introduction
 
 Este relatório descreve dois projetos desenvolvidos no âmbito da unidade curricular de **Computação Móvel**, no curso de **Engenharia Informática**, durante o ano letivo 2024-2025.
