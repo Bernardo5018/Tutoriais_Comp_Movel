@@ -443,7 +443,6 @@ Não foram detetados erros graves introduzidos por código gerado por IA, embora
 | Configuração Gradle (dependências) | Humano (com apoio pontual de IA para versões) |
 | Testes e validação | Humano |
 
-**Estimativa:** ~90% do desenvolvimento foi realizado de forma independente. A IA foi utilizada em cerca de 10% do tempo total, exclusivamente para esclarecimento de dúvidas sobre APIs e configurações específicas.
 
 ---
 
