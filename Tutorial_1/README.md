@@ -1,8 +1,8 @@
-# 📱 Relatório de Trabalhos Práticos – Computação Móvel
+# 📱 Relatório de Projetos – Computação Móvel
 
-**Course:** Computação Móvel
-**Student(s):** Bernardo Rocha – 15033
-**Date:** 2025
+**Course:** Computação Móvel  
+**Student(s):** Bernardo Rocha – 15033  
+**Date:** 2024/2025  
 **Repository URL:** https://github.com/username/computacao-movel
 
 ---
