@@ -22,7 +22,7 @@ de utilizadores), introduziu-se uma funcionalidade PRO ("Heatmap") por 1€ mens
 funcionalidade permite aos subscritores visualizarem as zonas de maior afluência e os "trilhos
 secretos" mais percorridos pela comunidade, aliando um modelo de negócio sustentável a
 uma ferramenta altamente desejada pelo público-alvo.
-- The entire application development process
+## The entire application development process
 O desenvolvimento da aplicação seguiu uma metodologia iterativa e estritamente centrada no
 utilizador, dividida nas quatro grandes fases estipuladas no guião da disciplina:
 - Concept Phase (Fase de Conceito): O projeto iniciou-se com sessões
@@ -51,22 +51,10 @@ automáticas baseadas nas métricas), e integrou-se um sistema multi-idioma
 (Português, Inglês e Espanhol) operável em tempo real. Uma avaliação final a 6 novos
 utilizadores validou que o produto está totalmente pronto para o mercado.
 
-- Initial wire-frame diagrams
+## Initial wire-frame diagrams
  AS IMAGENS ESTÃO NO PDF
 
-- Initial mock-ups
- AS IMAGENS ESTÃO NO PDF
-
-
-
-
-
-
-
-
-
-
-- Final screenshots
+## Initial mock-ups
  AS IMAGENS ESTÃO NO PDF
 
 
@@ -78,8 +66,7 @@ utilizadores validou que o produto está totalmente pronto para o mercado.
 
 
 
-
-- Final full entity-association diagram of database
+## Final screenshots
  AS IMAGENS ESTÃO NO PDF
 
 
@@ -92,6 +79,8 @@ utilizadores validou que o produto está totalmente pronto para o mercado.
 
 
 
+## Final full entity-association diagram of database
+ AS IMAGENS ESTÃO NO PDF
 
 
 
@@ -100,7 +89,18 @@ utilizadores validou que o produto está totalmente pronto para o mercado.
 
 
 
-- Final full data-base schema (no data)
+
+
+
+
+
+
+
+
+
+
+
+## Final full data-base schema (no data)
 A aplicação utiliza o Firebase Firestore, uma base de dados NoSQL orientada a documentos,
 garantindo sincronização em tempo real e modo offline. O esquema estrutural final é o
 seguinte:
@@ -133,11 +133,11 @@ acesso rápido)
 
 
 
-- Final full UML class diagram
+## Final full UML class diagram
  AS IMAGENS ESTÃO NO PDF
 
 
-- Results obtained
+## Results obtained
 Os resultados obtidos no final do ciclo de desenvolvimento foram excecionais. A
 aplicação Find My Trail demonstrou um desempenho bom, cumprindo os rigorosos requisitos
 iniciais propostos para o semestre. No campo técnico, a adoção de tecnologias assíncronas
@@ -149,7 +149,7 @@ rondas de testes de usabilidade evidenciaram que o público-alvo (Mountain Biker
 apaixonou pelo conceito visual fluído e revelou intenção de aderir à subscrição PRO de 1€,
 validando formalmente o modelo de negócio proposto.
 
-- Discussion of the most important issues
+## Discussion of the most important issues
 Durante as fases de Produção e Pós-Produção, a equipa deparou-se com alguns desafios
 técnicos arquiteturais que exigiram estudo aprofundado:
 - Gestão de Memória com Imagens Pesadas (OOM - Out of Memory): Inicialmente,
