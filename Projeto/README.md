@@ -1,9 +1,11 @@
+# 📱 Relatório de Projetos – Computação Móvel
 
+**Course:** Computação Móvel  
+**Student(s):** Bernardo Rocha – 15033  
+**Date:** 2025/2026  
+**Repository URL:** https://github.com/Bernardo5018/Tutoriais_Comp_Movel
 
-## FINAL REPORT - FIND MY TRAIL APP
-## Disciplina: Computação Móvel
-## Autor: Bernardo Rocha - 15033
-
+---
 - Introduction to the work
 O Find My Trail foi concebido como uma solução tecnológica premium destinada a ciclistas de
 BTT, caminhantes e entusiastas de desportos ao ar livre. O projeto nasceu da necessidade de
