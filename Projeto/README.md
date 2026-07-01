@@ -6,7 +6,7 @@
 **Repository URL:** https://github.com/Bernardo5018/Tutoriais_Comp_Movel
 
 ---
-##- Introduction to the work
+## Introduction to the work
 O Find My Trail foi concebido como uma solução tecnológica premium destinada a ciclistas de
 BTT, caminhantes e entusiastas de desportos ao ar livre. O projeto nasceu da necessidade de
 unificar a descoberta de rotas, o registo de atividade física e a segurança num único
