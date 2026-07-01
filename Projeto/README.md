@@ -50,9 +50,10 @@ automáticas baseadas nas métricas), e integrou-se um sistema multi-idioma
 utilizadores validou que o produto está totalmente pronto para o mercado.
 
 - Initial wire-frame diagrams
-
+ AS IMAGENS ESTÃO NO PDF
 
 - Initial mock-ups
+ AS IMAGENS ESTÃO NO PDF
 
 
 
@@ -64,6 +65,7 @@ utilizadores validou que o produto está totalmente pronto para o mercado.
 
 
 - Final screenshots
+ AS IMAGENS ESTÃO NO PDF
 
 
 
@@ -76,6 +78,7 @@ utilizadores validou que o produto está totalmente pronto para o mercado.
 
 
 - Final full entity-association diagram of database
+ AS IMAGENS ESTÃO NO PDF
 
 
 
@@ -129,6 +132,7 @@ acesso rápido)
 
 
 - Final full UML class diagram
+ AS IMAGENS ESTÃO NO PDF
 
 
 - Results obtained
